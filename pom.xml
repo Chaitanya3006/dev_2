@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <person>
+    <name>John Doe</name>
+    <age>30</age>
+    <address>
+      <street>Main Street</street>
+      <city>Anytown</city>
+      <state>ABC</state>
+      <zipcode>12345</zipcode>
+    </address>
+  </person>
+  <person>
+    <name>Jane Smith</name>
+    <age>25</age>
+    <address>
+      <street>Second Avenue</street>
+      <city>Another City</city>
+      <state>DEF</state>
+      <zipcode>67890</zipcode>
+    </address>
+  </person>
+</root>
